@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "recordsReturned": 53
+  },
+  "data": [
+    {
+      "theWeekBeginning": "2021-12-27T00:00:00",
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "netPolarisedSentiment": 0.13946731234866827
+    },
+    {
+      "theWeekBeginning": "2022-01-03T00:00:00",
+      "positive": 5,
+      "neutral": 0,
+      "negative": 0,
+      "netPolarisedSentiment": 0.5714285714285714
+    },
+    {
+      "theWeekBeginning": "2022-01-10T00:00:00",
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0,
+      "netPolarisedSentiment": 0.42857142857142855
+    },
+    {
+      "theWeekBeginning": "2022-01-17T00:00:00",
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0,
+      "netPolarisedSentiment": 0
+    },
+    {
+      "theWeekBeginning": "2022-01-24T00:00:00",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0,
+      "netPolarisedSentiment": 0
+    },
+    {
+      "theWeekBeginning": "2022-01-31T00:00:00",
+      "positive": 188,
+      "neutral": 1326,
+      "negative": 79,
+      "netPolarisedSentiment": 0.19892216065669746
+    },
+    {
+      "theWeekBeginning": "2022-02-07T00:00:00",
+      "positive": 158,
+      "neutral": 1377,
+      "negative": 197,
+      "netPolarisedSentiment": 0.08626245791384721
+    },
+    {
+      "theWeekBeginning": "2022-02-14T00:00:00",
+      "positive": 176,
+      "neutral": 1651,
+      "negative": 377,
+      "netPolarisedSentiment": -0.20255357229915147
+    },
+    {
+      "theWeekBeginning": "2022-02-21T00:00:00",
+      "positive": 781,
+      "neutral": 17873,
+      "negative": 2978,
+      "netPolarisedSentiment": -0.45742339697827666
+    },
+    {
+      "theWeekBeginning": "2022-02-28T00:00:00",
+      "positive": 7965,
+      "neutral": 95011,
+      "negative": 32747,
+      "netPolarisedSentiment": -0.3207514655239507
+    },
+    {
+      "theWeekBeginning": "2022-03-07T00:00:00",
+      "positive": 10962,
+      "neutral": 132675,
+      "negative": 37010,
+      "netPolarisedSentiment": -0.6275978717296384
+    },
+    {
+      "theWeekBeginning": "2022-03-14T00:00:00",
+      "positive": 5910,
+      "neutral": 61536,
+      "negative": 55574,
+      "netPolarisedSentiment": -0.658246836023347
+    },
+    {
+      "theWeekBeginning": "2022-03-21T00:00:00",
+      "positive": 7935,
+      "neutral": 32011,
+      "negative": 14144,
+      "netPolarisedSentiment": -0.5759038753708838
+    },
+    {
+      "theWeekBeginning": "2022-03-28T00:00:00",
+      "positive": 2104,
+      "neutral": 11430,
+      "negative": 5633,
+      "netPolarisedSentiment": -0.3666842408492868
+    },
+    {
+      "theWeekBeginning": "2022-04-04T00:00:00",
+      "positive": 638,
+      "neutral": 7862,
+      "negative": 5736,
+      "netPolarisedSentiment": -0.7171511726015275
+    },
+    {
+      "theWeekBeginning": "2022-04-11T00:00:00",
+      "positive": 730,
+      "neutral": 5176,
+      "negative": 2643,
+      "netPolarisedSentiment": -0.6591630636113777
+    },
+    {
+      "theWeekBeginning": "2022-04-18T00:00:00",
+      "positive": 1286,
+      "neutral": 7926,
+      "negative": 3082,
+      "netPolarisedSentiment": -0.4479123772911855
+    },
+    {
+      "theWeekBeginning": "2022-04-25T00:00:00",
+      "positive": 2607,
+      "neutral": 7329,
+      "negative": 2773,
+      "netPolarisedSentiment": -0.11397098183308817
+    },
+    {
+      "theWeekBeginning": "2022-05-02T00:00:00",
+      "positive": 665,
+      "neutral": 4432,
+      "negative": 1396,
+      "netPolarisedSentiment": -0.32614413838475054
+    },
+    {
+      "theWeekBeginning": "2022-05-09T00:00:00",
+      "positive": 3213,
+      "neutral": 5134,
+      "negative": 2922,
+      "netPolarisedSentiment": -0.08843347387617062
+    },
+    {
+      "theWeekBeginning": "2022-05-16T00:00:00",
+      "positive": 1755,
+      "neutral": 19388,
+      "negative": 6015,
+      "netPolarisedSentiment": -0.3769386438853086
+    },
+    {
+      "theWeekBeginning": "2022-05-23T00:00:00",
+      "positive": 829,
+      "neutral": 6618,
+      "negative": 4579,
+      "netPolarisedSentiment": -0.6563000916295778
+    },
+    {
+      "theWeekBeginning": "2022-05-30T00:00:00",
+      "positive": 364,
+      "neutral": 1807,
+      "negative": 1495,
+      "netPolarisedSentiment": -0.5313648445861503
+    },
+    {
+      "theWeekBeginning": "2022-06-06T00:00:00",
+      "positive": 719,
+      "neutral": 7537,
+      "negative": 2333,
+      "netPolarisedSentiment": -0.5427440188733559
+    },
+    {
+      "theWeekBeginning": "2022-06-13T00:00:00",
+      "positive": 566,
+      "neutral": 5222,
+      "negative": 2321,
+      "netPolarisedSentiment": -0.5817195375201266
+    },
+    {
+      "theWeekBeginning": "2022-06-20T00:00:00",
+      "positive": 246,
+      "neutral": 4725,
+      "negative": 2942,
+      "netPolarisedSentiment": -0.42800251810731105
+    },
+    {
+      "theWeekBeginning": "2022-06-27T00:00:00",
+      "positive": 982,
+      "neutral": 3259,
+      "negative": 1729,
+      "netPolarisedSentiment": -0.6202500404880072
+    },
+    {
+      "theWeekBeginning": "2022-07-04T00:00:00",
+      "positive": 199,
+      "neutral": 3351,
+      "negative": 1534,
+      "netPolarisedSentiment": -0.2964036038004518
+    },
+    {
+      "theWeekBeginning": "2022-07-11T00:00:00",
+      "positive": 550,
+      "neutral": 2006,
+      "negative": 1219,
+      "netPolarisedSentiment": -0.449944643151717
+    },
+    {
+      "theWeekBeginning": "2022-07-18T00:00:00",
+      "positive": 720,
+      "neutral": 1903,
+      "negative": 1255,
+      "netPolarisedSentiment": -0.3338552429706358
+    },
+    {
+      "theWeekBeginning": "2022-07-25T00:00:00",
+      "positive": 2058,
+      "neutral": 2909,
+      "negative": 1503,
+      "netPolarisedSentiment": -0.026130652721333296
+    },
+    {
+      "theWeekBeginning": "2022-08-01T00:00:00",
+      "positive": 441,
+      "neutral": 1742,
+      "negative": 600,
+      "netPolarisedSentiment": 0.12756056893727458
+    },
+    {
+      "theWeekBeginning": "2022-08-08T00:00:00",
+      "positive": 1209,
+      "neutral": 3156,
+      "negative": 1205,
+      "netPolarisedSentiment": -0.0770521683807482
+    },
+    {
+      "theWeekBeginning": "2022-08-15T00:00:00",
+      "positive": 698,
+      "neutral": 7916,
+      "negative": 2402,
+      "netPolarisedSentiment": -0.2829930623927912
+    },
+    {
+      "theWeekBeginning": "2022-08-22T00:00:00",
+      "positive": 499,
+      "neutral": 3546,
+      "negative": 1397,
+      "netPolarisedSentiment": -0.4730600761212873
+    },
+    {
+      "theWeekBeginning": "2022-08-29T00:00:00",
+      "positive": 483,
+      "neutral": 2601,
+      "negative": 1007,
+      "netPolarisedSentiment": -0.3277707721124069
+    },
+    {
+      "theWeekBeginning": "2022-09-05T00:00:00",
+      "positive": 255,
+      "neutral": 1910,
+      "negative": 739,
+      "netPolarisedSentiment": -0.14330006589741848
+    },
+    {
+      "theWeekBeginning": "2022-09-12T00:00:00",
+      "positive": 686,
+      "neutral": 2798,
+      "negative": 627,
+      "netPolarisedSentiment": -0.01008692117253633
+    },
+    {
+      "theWeekBeginning": "2022-09-19T00:00:00",
+      "positive": 1673,
+      "neutral": 4770,
+      "negative": 814,
+      "netPolarisedSentiment": 0.2641517455291367
+    },
+    {
+      "theWeekBeginning": "2022-09-26T00:00:00",
+      "positive": 325,
+      "neutral": 3211,
+      "negative": 857,
+      "netPolarisedSentiment": -0.08926791813743416
+    },
+    {
+      "theWeekBeginning": "2022-10-03T00:00:00",
+      "positive": 376,
+      "neutral": 2686,
+      "negative": 2996,
+      "netPolarisedSentiment": -0.7636645180870486
+    },
+    {
+      "theWeekBeginning": "2022-10-10T00:00:00",
+      "positive": 476,
+      "neutral": 6148,
+      "negative": 1516,
+      "netPolarisedSentiment": -0.29208863692688636
+    },
+    {
+      "theWeekBeginning": "2022-10-17T00:00:00",
+      "positive": 412,
+      "neutral": 2416,
+      "negative": 659,
+      "netPolarisedSentiment": -0.25181457705000276
+    },
+    {
+      "theWeekBeginning": "2022-10-24T00:00:00",
+      "positive": 589,
+      "neutral": 1771,
+      "negative": 1591,
+      "netPolarisedSentiment": -0.07399658133370586
+    },
+    {
+      "theWeekBeginning": "2022-10-31T00:00:00",
+      "positive": 336,
+      "neutral": 2198,
+      "negative": 1464,
+      "netPolarisedSentiment": -0.60701234635883
+    },
+    {
+      "theWeekBeginning": "2022-11-07T00:00:00",
+      "positive": 565,
+      "neutral": 2373,
+      "negative": 469,
+      "netPolarisedSentiment": -0.14278509639245457
+    },
+    {
+      "theWeekBeginning": "2022-11-14T00:00:00",
+      "positive": 290,
+      "neutral": 3150,
+      "negative": 5083,
+      "netPolarisedSentiment": -0.6269290130536909
+    },
+    {
+      "theWeekBeginning": "2022-11-21T00:00:00",
+      "positive": 3299,
+      "neutral": 3814,
+      "negative": 984,
+      "netPolarisedSentiment": -0.08784035289985502
+    },
+    {
+      "theWeekBeginning": "2022-11-28T00:00:00",
+      "positive": 116,
+      "neutral": 2164,
+      "negative": 581,
+      "netPolarisedSentiment": 0.2188579714425882
+    },
+    {
+      "theWeekBeginning": "2022-12-05T00:00:00",
+      "positive": 487,
+      "neutral": 2793,
+      "negative": 381,
+      "netPolarisedSentiment": -0.006911846395179513
+    },
+    {
+      "theWeekBeginning": "2022-12-12T00:00:00",
+      "positive": 94,
+      "neutral": 2703,
+      "negative": 443,
+      "netPolarisedSentiment": -0.11279242827577796
+    },
+    {
+      "theWeekBeginning": "2022-12-19T00:00:00",
+      "positive": 958,
+      "neutral": 3460,
+      "negative": 334,
+      "netPolarisedSentiment": 0.059891100691942555
+    },
+    {
+      "theWeekBeginning": "2022-12-26T00:00:00",
+      "positive": 471,
+      "neutral": 3640,
+      "negative": 3865,
+      "netPolarisedSentiment": -0.12646338568373977
+    }
+  ]
+}
